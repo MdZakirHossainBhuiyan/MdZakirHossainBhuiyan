@@ -32,6 +32,15 @@
 
 - ⚡ Fun fact **Did you know? I'm a developer with a black belt in Google-fu. I can find a solution faster than you can say 'syntax error.**
 
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzakirhossainbhuiyan&show_icons=true&locale=en&layout=compact" alt="mdzakirhossainbhuiyan" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzakirhossainbhuiyan&show_icons=true&locale=en" alt="mdzakirhossainbhuiyan" />
+</p>
+
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
 <p align="center">
@@ -118,17 +127,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <!-- Placeholder for GPT-3.5 icon -->
-  <img src="https://path-to-your-gpt35-icon" alt="GPT-3.5" width="40" height="40" />
-</p>
-
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzakirhossainbhuiyan&show_icons=true&locale=en&layout=compact" alt="mdzakirhossainbhuiyan" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzakirhossainbhuiyan&show_icons=true&locale=en" alt="mdzakirhossainbhuiyan" />
 </p>
 
 

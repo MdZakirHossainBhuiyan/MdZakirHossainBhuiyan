@@ -18,18 +18,7 @@
 
 🎓 Recent Computer Science and Engineering graduate from East West University, with a passion for the MERN stack. I've brought concepts to life in various projects using JavaScript, React, Express, and MongoDB. Proficient in React-Redux, Redux Thunk, Redux Toolkit, RTK Query, Tailwind CSS, Material UI, and Firebase Authentication.
 
-### Skills:
-- JS / REACT / NODE / EXPRESS
-
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZakirHossainBhuiyan)
-
-### GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdZakirHossainBhuiyan&show_icons=true)
-
-##-------------
-
-<h3 align="center">👩‍💻 Scripting the future with lines of code 👨‍💻</h3>
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzakirhossainbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="mdzakirhossainbhuiyan" /> </p>
 

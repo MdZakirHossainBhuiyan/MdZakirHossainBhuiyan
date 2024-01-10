@@ -21,6 +21,13 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzakirhossainbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="mdzakirhossainbhuiyan" /> </p>
+#--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzakirhossainbhuiyan&label=Profile%20views&color=007BFF&style=flat" alt="mdzakirhossainbhuiyan" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzakirhossainbhuiyan&label=Profile%20views&color=28a745&style=flat" alt="mdzakirhossainbhuiyan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzakirhossainbhuiyan&label=Profile%20views&color=FFA500&style=flat" alt="mdzakirhossainbhuiyan" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzakirhossainbhuiyan" alt="mdzakirhossainbhuiyan" /></a> </p>
 

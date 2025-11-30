@@ -9,7 +9,7 @@
 <!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-zakir-hossain-bhuiyan-7a7271203/" height="30" width="40" /> -->
   LinkedIn
 </a>
-  <span>" "</span>
+  <span> </span>
 <a href="https://fb.com/https://www.facebook.com/zakir.hossain065/" target="blank">
   Facebook
 <!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zakir.hossain065/" height="30" width="40" /> -->

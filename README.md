@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://synodus.com/wp-content/uploads/2023/01/MERN-Stack-Web-Development.jpg" alt="👩‍💻 Scripting the future with lines of code 👨‍💻" width="800">
-</p>
+
 
 <h1 align="center">I'm Md Zakir Hossain Bhuiyan!</h1>
 
